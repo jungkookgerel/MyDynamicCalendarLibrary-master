@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyDynamicCalendarLibrary</string>
+    <string name="message_network_problem">No Internet</string>
+</resources>
